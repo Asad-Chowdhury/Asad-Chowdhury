@@ -1,7 +1,6 @@
 # 👋 Asad Chowdhury
 
-<img width="3300" height="825" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/c48654b5-1565-4335-97f1-6e240f5c5268" />
-
+<img width="1280" height="340" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/c48654b5-1565-4335-97f1-6e240f5c5268" />
 
 **Frontend Developer | Conversion Tracking Specialist | CRO Engineer**
 
@@ -26,99 +25,111 @@ For SaaS startups, this means:
 
 ## 💼 Professional Experience
 
-### Conversion Tracking Specialist
+### <img src="https://github.com/user-attachments/assets/963f7f61-4011-4cda-a6bb-063904078171" width="22" height="22" style="vertical-align: middle;"> Conversion Tracking Specialist
 **Digital Recipe** · Part-time  
-*Jun 2024 – Present* | Remote (Australia)
-
-Google Tag Manager, JavaScript, GA4, Event Tracking
+*Jun 2024 – Present* | 🌏 Remote (Australia)  
+*Google Tag Manager, JavaScript, GA4, Event Tracking*
 
 ---
 
-### Team Lead – Conversion Tracking | Data Analysis | Conversion Rate Optimization
+### <img src="https://github.com/user-attachments/assets/6d8d8fe7-b363-4753-8c6e-7f41a5c58894" width="22" height="22" style="vertical-align: middle;"> Team Lead – Conversion Tracking | Data Analysis | CRO
 **Debutify** · Part-time  
-*Nov 2022 – May 2024* (1 yr 7 mos) | Remote (New York, USA)
-
-Led the Conversion Tracking and Data Analysis unit; Spearheaded CRO initiatives to improve funnel performance and revenue attribution.
-
-**Skills:** Conversion Tracking, Google Tag Manager, GA4, Data Visualization
+*Nov 2022 – May 2024* (1 yr 7 mos) | 🌎 Remote (New York, USA)  
+*Conversion Tracking, Google Tag Manager, GA4, Data Visualization*
 
 ---
 
-### Data Specialist
+### <img src="https://github.com/user-attachments/assets/d71791d0-1368-4981-b3b6-1508bbfa509f" width="22" height="22" style="vertical-align: middle;"> Data Specialist
 **Conversio Marketing** · Part-time  
-*Apr 2024 – Oct 2025* (1 yr 7 mos) | Remote (Canada)
-
-Designed and deployed data pipelines for e-commerce and SaaS analytics.
-
-**Skills:** Google Analytics, Google BigQuery, SQL, Data Analysis, Looker Studio
+*Apr 2024 – Oct 2025* | 🌎 Remote (Canada)  
+*Google Analytics, Google BigQuery, SQL, Data Analysis, Looker Studio*
 
 ---
 
-### Conversion Tracking Expert
+### <img src="https://github.com/user-attachments/assets/a21af275-b240-4c21-b4ab-4c9d3b2f0b55" width="22" height="22" style="vertical-align: middle;"> Conversion Tracking Expert
 **Quick Evolve** · Part-time  
-*Dec 2022 – Aug 2023* (9 mos) | Remote (Australia)
-
-Implemented end-to-end tracking for digital marketing campaigns.
-
-**Skills:** Conversion Tracking, Data Analysis, Google Data Studio
+*Dec 2022 – Aug 2023* (9 mos) | 🌏 Remote (Australia)  
+*Conversion Tracking, Data Analysis, Google Data Studio*
 
 ---
 
-### Independent Contractor (Freelance)
-**Upwork**  
-*2012 – Present* (14+ years) | Remote Worldwide | Top rated plus seller
-
-Specialized in frontend development, conversion tracking, Google BigQuery, Google Search Console, GA4, and API integrations. Built solutions for e-commerce, SaaS, and marketing agencies.
+### <img src="https://github.com/user-attachments/assets/f6dfb4ff-9351-4742-8759-b0d797879928" width="22" height="22" style="vertical-align: middle;"> Independent Contractor (Freelance)
+**Upwork** ⭐ Top Rated Plus  
+*2012 – Present* (14+ years) | 🌍 Remote Worldwide  
+*Frontend Development, BigQuery, Search Console, GA4, API Integrations*
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Frontend Engineering
-- JavaScript (ES6+), HTML5, CSS3
-- React.js, Next.js
-- Tailwind CSS, DaisyUI
-- Lucide Icons
-- Component-driven design, SSR/SSG
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" height="40" alt="daisyui logo" />
+</div>
 
 ### 📊 Analytics & Instrumentation
-- Google Tag Manager (Web & Server-Side)
-- Google Analytics 4 (GA4) & Measurement Protocol
-- Meta Conversions API (CAPI)
-- DataLayer Architecture
-- Custom JavaScript Instrumentation
 
-### ⚙️ Backend & Data
-- Node.js
-- Google BigQuery
-- SQL
-- Looker Studio
+<div align="left">
+  <img src="https://cdn.simpleicons.org/googletagmanager/246FDB" height="40" alt="gtm logo" />
+  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="40" alt="ga4 logo" />
+  <img src="https://cdn.simpleicons.org/googleads/4285F4" height="40" alt="gads logo" />
+  <img src="https://cdn.simpleicons.org/meta/0668E1" height="40" alt="meta logo" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="gcloud logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="bigquery logo" />
+</div>
 
-### 🔌 Integrations & Automation
-- Webhooks & API Integration
-- Zapier Automation
-- Google Ads API
-- Google Search Console
+### ⚙️ Backend & Automation
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/zapier/FF4A00" height="40" alt="zapier logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
 
 ---
 
 ## 🛠️ What I'm Currently Building
 
-I am currently developing a suite of open-source projects and a solo SaaS tool to demonstrate my frontend and tracking capabilities:
+I am actively building out my GitHub portfolio to showcase the intersection of modern frontend development and advanced marketing data capture:
 
-- 🏗️ **React/Next.js Analytics Wrapper:** A lightweight, custom SDK for React applications that handles persistent UTM tracking via `localStorage`, consent management, and queueing offline events.
-- 🛒 **Instrumented SaaS Checkout Flow:** A fully responsive pricing and checkout flow built with DaisyUI & Tailwind, featuring Server-Side tracking (Node.js) to securely bypass ad-blockers and push clean data to Meta CAPI.
-- 📈 **SaaS Micro-tool (WIP):** A subscription-based frontend tool built for eCommerce and marketers to automate and audit their tracking setups.
-
-*(Repositories dropping soon!)*
+- 🏗️ **React/Next.js Analytics Wrapper:** A custom SDK for React applications that parses complex URL parameters (like `utm_params`) and persists them across sessions. It systematically manages `localStorage` keys for `utm_source`, `gclid`, `fbclid`, `LandingPage`, and `referrerUrl`, while handling consent management and queueing offline events.
+- 🛒 **Instrumented SaaS Checkout Flow:** A fully responsive, production-grade pricing and checkout flow built with **Tailwind CSS & DaisyUI** (utilizing a custom dark blue `#101727` and gradient purple `#4f39f6` to `#9514fa` theme). It features native Server-Side tracking to securely bypass ad-blockers and push clean customer JSON payloads directly to Meta CAPI.
+- 📈 **SaaS Micro-tool (Solo Founder):** A subscription-based frontend utility for eCommerce brands and marketers. I am building this end-to-end using Next.js, leveraging AI for rapid development, and automating backend workflows seamlessly via Zapier.
 
 ---
 
-## 📈 My Conversion Tracking Philosophy
+## 🏆 Key Achievements
 
-> *"Bad data leads to bad decisions. Clean tracking is not optional — it's the foundation of a scalable SaaS."*
+- 🥇 **14+ Years of Independent Delivery:** Top Rated Plus freelancer on Upwork since 2012, consistently delivering high-quality frontend architecture, BigQuery reporting, and complex API integrations for global clients.
+- 🎯 **Advanced DataLayer Architecture:** Developed custom JavaScript logic to dynamically extract complex nested user data (such as `ngx-webstorage|customer` JSON payloads) to populate rich, standardized data layers for GA4, Google Ads, and Meta.
+- 👔 **CRO & Tracking Leadership:** Served as Team Lead for Conversion Tracking and Data Analysis at Debutify, spearheading funnel optimization initiatives that directly improved revenue attribution visibility for a major SaaS product.
+- 🔐 **Resilient Multi-Touch Attribution:** Engineered robust client-side storage mechanisms that capture and persist first-party data across complex SPA navigation, ensuring attribution never breaks before conversion.
 
-Whether it's ensuring a React SPA doesn't break history-change triggers, or passing a deeply nested JSON customer payload to a webhook, I focus on the intersection of **flawless user experience** and **flawless data capture.**
+---
+
+## 🎬 Client Testimonials
+
+<div align="center">
+
+### 🎯 **"Asad is a true expert in conversion tracking and data layer implementation"**
+[![Watch the video](https://img.youtube.com/vi/jcyPcIBRzkw/0.jpg)](https://youtu.be/jcyPcIBRzkw)
+
+### 📊 **"Exceptional attention to detail in analytics setup and implementation"**
+[![Watch the video](https://img.youtube.com/vi/iDv1GzV6Xts/0.jpg)](https://youtu.be/iDv1GzV6Xts)
+
+### 💡 **"Transformed our tracking infrastructure with clean, reliable data"**
+[![Watch the video](https://img.youtube.com/vi/aDUQC3GbuWw/0.jpg)](https://youtu.be/aDUQC3GbuWw)
+
+</div>
 
 ---
 
@@ -126,12 +137,16 @@ Whether it's ensuring a React SPA doesn't break history-change triggers, or pass
 
 Looking for a remote frontend developer who understands MRR, attribution, and event funnels just as well as React hooks and Tailwind utility classes? Let's talk.
 
-- 💼 **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/chowdhuryasad)
-- 🔗 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/asadchowdhury/)
-- 📧 **Email:** asad.ami@gmail.com
+<div align="center">
+
+**[💼 Upwork](https://www.upwork.com/freelancers/chowdhuryasad)** · **[🔗 LinkedIn](https://www.linkedin.com/in/asadchowdhury/)** · **📧 asad.ami@gmail.com**
+
+</div>
 
 ---
 
-⭐ If you found this helpful, consider starring my projects on GitHub!
-
-*Last updated: 2026 | Remote-first, open to contract and full-time opportunities with SaaS startups.*
+<div align="center">
+  ⭐ If you found my work helpful, consider starring my projects!
+  <br>
+  <i>Last updated: 2026 | Remote-first Frontend Developer</i>
+</div>

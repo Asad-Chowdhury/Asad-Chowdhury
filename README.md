@@ -118,18 +118,28 @@ I am actively building out my GitHub portfolio to showcase the intersection of m
 
 ## 🎬 Client Testimonials
 
-<div align="center">
-
-### 🎯 **"Asad is a true expert in conversion tracking and data layer implementation"**
-[![Watch the video](https://img.youtube.com/vi/jcyPcIBRzkw/0.jpg)](https://youtu.be/jcyPcIBRzkw)
-
-### 📊 **"Exceptional attention to detail in analytics setup and implementation"**
-[![Watch the video](https://img.youtube.com/vi/iDv1GzV6Xts/0.jpg)](https://youtu.be/iDv1GzV6Xts)
-
-### 💡 **"Transformed our tracking infrastructure with clean, reliable data"**
-[![Watch the video](https://img.youtube.com/vi/aDUQC3GbuWw/0.jpg)](https://youtu.be/aDUQC3GbuWw)
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/jcyPcIBRzkw">
+        <img src="https://img.youtube.com/vi/jcyPcIBRzkw/0.jpg" width="100%" alt="Client Testimonial 1" style="border-radius: 8px; border: 3px solid #fff;"/>
+      </a>
+      <p><strong>Client Testimonial: Ricky Hayes, CEO,<br/>Debutify</strong></p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/iDv1GzV6Xts">
+        <img src="https://img.youtube.com/vi/iDv1GzV6Xts/0.jpg" width="100%" alt="Client Testimonial 2" style="border-radius: 8px; border: 3px solid #fff;"/>
+      </a>
+      <p><strong>Client Testimonial: Alexandra di Guglielmo,<br/>Agency Owner, Bytes to insights</strong></p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://youtu.be/aDUQC3GbuWw">
+        <img src="https://img.youtube.com/vi/aDUQC3GbuWw/0.jpg" width="100%" alt="Client Testimonial 3" style="border-radius: 8px; border: 3px solid #fff;"/>
+      </a>
+      <p><strong>Client Testimonial: Cory Roland, CEO,<br/>Optimal Media</strong></p>
+    </td>
+  </tr>
+</table>
 
 ---
 

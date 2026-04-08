@@ -128,7 +128,7 @@ Looking for a remote frontend developer who understands MRR, attribution, and ev
 
 - 💼 **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/chowdhuryasad)
 - 🔗 **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/asadchowdhury/)
-- 📧 **Email:** *(Add your email here)*
+- 📧 **Email:** asad.ami@gmail.com
 
 ---
 

@@ -66,7 +66,7 @@ Implemented end-to-end tracking for digital marketing campaigns.
 
 ### Independent Contractor (Freelance)
 **Upwork**  
-*2012 – Present* (14+ years) | Remote Worldwide
+*2012 – Present* (14+ years) | Remote Worldwide | Top rated plus seller
 
 Specialized in frontend development, conversion tracking, Google BigQuery, Google Search Console, GA4, and API integrations. Built solutions for e-commerce, SaaS, and marketing agencies.
 

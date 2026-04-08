@@ -119,7 +119,7 @@ I am actively building out my GitHub portfolio to showcase the intersection of m
 
 ## 🏆 Key Achievements
 
-- 🥇 **14+ Years of Independent Delivery:** Top Rated Plus freelancer on Upwork since 2012, consistently delivering high-quality frontend architecture, BigQuery reporting, and complex API integrations for global clients.
+- 🥇 **14+ Years of Independent Delivery:** Top Rated Plus freelancer on Upwork - Since 2012 consistently delivering high-quality frontend architecture, BigQuery reporting, and complex API integrations for global clients.
 - 🎯 **Advanced DataLayer Architecture:** Developed custom JavaScript logic to dynamically extract complex nested user data (such as `ngx-webstorage|customer` JSON payloads) to populate rich, standardized data layers for GA4, Google Ads, and Meta.
 - 👔 **CRO & Tracking Leadership:** Served as Team Lead for Conversion Tracking and Data Analysis at Debutify, spearheading funnel optimization initiatives that directly improved revenue attribution visibility for a major SaaS product.
 - 🔐 **Resilient Multi-Touch Attribution:** Engineered robust client-side storage mechanisms that capture and persist first-party data across complex SPA navigation, ensuring attribution never breaks before conversion.

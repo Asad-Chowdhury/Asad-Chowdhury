@@ -2,6 +2,16 @@
 
 <img width="1280" height="340" alt="GitHub-Banner" src="https://github.com/user-attachments/assets/c48654b5-1565-4335-97f1-6e240f5c5268" />
 
+<br/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3500&pause=500&color=4F39F6&center=true&vCenter=true&repeat=true&width=900&lines=Hey+%F0%9F%91%8B+Asad+Here!!;Welcome+to+my+profile"
+    alt="Typing SVG: Hey 👋 Asad Here!! Welcome to my profile"
+  />
+</p>
+<br/>
+
+
 **Frontend Developer | Conversion Tracking Specialist | CRO Engineer**
 
 I build polished, high-performance frontend experiences for SaaS products and instrument them end-to-end. I bridge the gap between **Software Engineering** and **Growth**, ensuring every feature shipped produces clean, actionable data for product and marketing teams.
@@ -109,7 +119,7 @@ I am actively building out my GitHub portfolio to showcase the intersection of m
 
 ## 🏆 Key Achievements
 
-- 🥇 **14+ Years of Independent Delivery:** Top Rated Plus freelancer on Upwork - Since 2012 consistently delivering high-quality frontend architecture, BigQuery reporting, and complex API integrations for global clients.
+- 🥇 **14+ Years of Independent Delivery:** Top Rated Plus freelancer on Upwork since 2012, consistently delivering high-quality frontend architecture, BigQuery reporting, and complex API integrations for global clients.
 - 🎯 **Advanced DataLayer Architecture:** Developed custom JavaScript logic to dynamically extract complex nested user data (such as `ngx-webstorage|customer` JSON payloads) to populate rich, standardized data layers for GA4, Google Ads, and Meta.
 - 👔 **CRO & Tracking Leadership:** Served as Team Lead for Conversion Tracking and Data Analysis at Debutify, spearheading funnel optimization initiatives that directly improved revenue attribution visibility for a major SaaS product.
 - 🔐 **Resilient Multi-Touch Attribution:** Engineered robust client-side storage mechanisms that capture and persist first-party data across complex SPA navigation, ensuring attribution never breaks before conversion.
